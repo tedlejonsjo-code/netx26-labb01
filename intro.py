@@ -1,0 +1,1 @@
+print("Hej ITSX26! och Jag studerar IT-och cybersäkerhet.")
